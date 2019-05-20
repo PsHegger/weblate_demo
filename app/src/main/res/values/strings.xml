@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weblate Demo</string>
+
+    <string name="harry_potter_1">Harry Potter and the Sorcerer\'s Stone</string>
+    <string name="harry_potter_2">Harry Potter and the Camber of Secrets</string>
+    <string name="harry_potter_3">Harry Potter and the Prisoner of Azkaban</string>
+    <string name="harry_potter_4">Harry Potter and the Goblet of Fire</string>
+    <string name="harry_potter_5">Harry Potter and the Order of the Phoenix</string>
+    <string name="harry_potter_6">Harry Potter and the Half-Blood Prince</string>
+    <string name="harry_potter_7">Harry Potter and the Deathly Hallows</string>
+</resources>
