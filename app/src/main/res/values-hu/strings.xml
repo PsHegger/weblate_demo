@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="app_name">Weblate Demo</string>
+
+    <string name="harry_potter_1">Harry Potter és a Bölcsek Köve</string>
+    <string name="harry_potter_2">Harry Potter és a Titkok Kamrája</string>
+    <string name="harry_potter_3">Harry Potter és az Azkabani Fogoly</string>
+    <string name="harry_potter_4">Harry Potter és a Tűz Serlege</string>
+    <string name="harry_potter_5">Harry Potter és a Főnix Rendje</string>
+    <string name="harry_potter_6">Harry Potter és a Félvér Herceg</string>
+    <string name="harry_potter_7">Harry Potter és a Halál Ereklyéi</string>
+</resources>
