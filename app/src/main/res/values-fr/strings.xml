@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<?xml version='1.0' encoding='UTF-8'?>
+<resources><string name="app_name">Weblate Demo</string>
+
+    <string name="harry_potter_1">Harry Potter à l\'école des sorciers</string>
+    <string name="harry_potter_2">Harry Potter et la Chambre des secrets</string>
+    <string name="harry_potter_3">Harry Potter et le Prisonnier d\'Azkaban</string>
+    <string name="harry_potter_4">Harry Potter et la Coupe de feu</string>
+    <string name="harry_potter_5">Harry Potter et l\'Ordre du phénix</string>
+    <string name="harry_potter_6">Harry Potter et le Prince de sang-mêlé</string>
+    <string name="harry_potter_7">Harry Potter et les Reliques de la Mort</string>
+</resources>
